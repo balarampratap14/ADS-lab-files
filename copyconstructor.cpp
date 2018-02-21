@@ -31,12 +31,10 @@ public:
 int main() {
    Example Object(10, 20);
    Example Object2(Object);
-    Example Object3 = Object;
   
 
    Object.Display();
    Object2.Display();
-   Object3.Display();
    
    return 0;
 }
