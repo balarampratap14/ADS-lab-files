@@ -28,7 +28,7 @@ int main()
 	MyClass my_class;
 	SecondClass sec_class;
 	my_class.printMember();
-	sec_class.change( my_class, 5 );
+	sec_class.change( my_class,30);
 	my_class.printMember();
 }
 
