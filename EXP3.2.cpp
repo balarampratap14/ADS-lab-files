@@ -3,21 +3,7 @@
 #include<stdlib.h>
 using namespace std;
  
-class Shape
-{
-public:
-    int width, length, base, height;
-    void set_data_rectangle (int a,int b)
-    {
-        width = a;
-      length = b;
-    }
-    int set_data_triangle(int c,int d)
-    {
-      base=c;
-      height=d;
-    }
-};
+
  
 class Rectangle: public Shape
 {

@@ -31,13 +31,8 @@ void Show()
               {
                     cout<<"\n\tThis is Show() method of DerivedClass";
               }
-       };
+       }d;
 
        int main()
        {
-
-              DerivedClass Dr;
-BaseClass B;              Dr.Display();
-              Dr.Show();
-B.Show();
-       }
+       	d.BaseClass b::Display();
