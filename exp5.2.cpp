@@ -33,6 +33,6 @@ int main()
  cin>>b[i];
  }
  
-sort(&b[4]);
+sort(&b);
 
 }
