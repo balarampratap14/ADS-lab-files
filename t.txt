@@ -3,6 +3,7 @@ friends
 this 
 is a test 
 file
+in master trunck
 to check 
 merge conflict
 
