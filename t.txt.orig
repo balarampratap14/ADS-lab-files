@@ -1,0 +1,13 @@
+hi
+friends
+this 
+is a test 
+file
+<<<<<<< HEAD
+in master trunck
+=======
+in test branch
+>>>>>>> test
+to check 
+merge conflict
+
