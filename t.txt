@@ -1,0 +1,8 @@
+hi
+friends
+this 
+is a test 
+file
+to check 
+merge conflict
+

@@ -10,15 +10,17 @@ int main () {
    outfile.open("afile.dat");
 
    cout << "Writing to the file" << endl;
-   cout << "Enter your name: "; 
-   cin.getline(data, 100);
+   
 
    // write inputted data into the file.
-   outfile << data << endl;
-
+   
    cout << "Enter your age: "; 
    cin >> data;
    cin.ignore();
+   outfile << data << endl;
+
+   cout << "Enter your name: "; 
+   cin.getline(data, 100);
    
    // again write inputted data into the file.
    outfile << data << endl;
