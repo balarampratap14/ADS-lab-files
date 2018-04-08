@@ -23,13 +23,13 @@ for(i=0;i<=6;i++)
 	cin>>iarray[i];
 }
 double darray[5];
-cout<<"Enter 7 double values in array"<<endl;
+cout<<"Enter 5 double values in array"<<endl;
 for(i=0;i<=4;i++)
 {
 	cin>>darray[i];
 }
 char carray[6];
-cout<<"Enter 7 char values in array"<<endl;
+cout<<"Enter 6 char values in array"<<endl;
 for(i=0;i<=5;i++)
 {
 	cin>>carray[i];
