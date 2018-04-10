@@ -15,7 +15,6 @@ int main()
  do
  {
   cin.getline(ch,20);
-  fout<<"written";
   fout<<ch;
   fout<<"\n";
   i++;

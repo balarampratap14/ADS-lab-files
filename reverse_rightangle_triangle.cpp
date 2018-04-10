@@ -7,6 +7,12 @@ using namespace std;
  cin>>n;
  for(int i=0;i<n;i++)
  {
+ int j=i;
+ while(j<n)
+ {
+ cout<<" ";
+ j++;
+ }
  int p=i;
  while(p>=0)
  {
